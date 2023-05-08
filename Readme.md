@@ -20,7 +20,7 @@
     <td><a href="https://github.com/maddydevgits/iot-activities/tree/main/Project3">Click Here</a></td>
   </tr>
   <tr>
-    <td>1</td>
+    <td>5</td>
     <td>Telegram Controlled Servo motor</td>
     <td>Servo Motor on and off using Telegram Bot</td>
     <td><a href="https://github.com/maddydevgits/iot-activities/tree/main/Project5">Click Here</a></td>
