@@ -25,4 +25,10 @@
     <td>Servo Motor on and off using Telegram Bot</td>
     <td><a href="https://github.com/maddydevgits/iot-activities/tree/main/Project5">Click Here</a></td>
   </tr>
+  <tr>
+    <td>4</td>
+    <td>using soilmoisture sensor and alcohol sensor</td>
+    <td>Generate Messages on Serial Monitor when Soil Sensor is Wet and dry, Alcohol Sensor is Normal and Drunken</td>
+    <td><a href="">Click Here</a></td>
+  </tr>
 </table>
