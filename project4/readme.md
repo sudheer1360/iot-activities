@@ -38,7 +38,8 @@
     <td>D0</td>
     <td>D0</td>
   </tr>
-  <br>
+</table>
+<table>
    <tr>
     <th>S.No</th>
     <th>alcohol sensor</th>
