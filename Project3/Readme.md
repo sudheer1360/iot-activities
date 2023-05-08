@@ -1,19 +1,19 @@
 # Components
-1.Alcohol Sensor
-2.NodeMCU
-3.USB Cable
-4.Jumper wires
+1.Alcohol Sensor<br>
+2.NodeMCU<br>
+3.USB Cable<br>
+4.Jumper wires<br>
 
 # Prereqisites
-1.Arduino Software
-2.ThingSpeak Account
+1.Arduino Software<br>
+2.ThingSpeak Account<br>
 
 # Outline
 Alcohol Sensor values will be updated to ThingSpeak Channel
 
 # Libraries
-1.Thingspeak library
-2.ESP8266 configuration in arduino 
+1.Thingspeak library<br>
+2.ESP8266 configuration in arduino<br>
 
 # connections
 <table>
