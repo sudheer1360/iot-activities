@@ -13,4 +13,10 @@
     <td>When a Gas Sensor detects the dangerous gas, then a msg has to be sent on Telegram</td>
     <td></td>
   </tr>
+   <tr>
+    <td>3</td>
+    <td>Alcohol ThingSpeak Updater</td>
+    <td>Alcohol Analog Value should be uploaded to ThingSpeak</td>
+    <td><a href="">Click Here</a></td>
+  </tr>
 </table>
