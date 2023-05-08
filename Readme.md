@@ -17,6 +17,6 @@
     <td>3</td>
     <td>Alcohol ThingSpeak Updater</td>
     <td>Alcohol Analog Value should be uploaded to ThingSpeak</td>
-    <td><a href="">Click Here</a></td>
+    <td><a href="https://github.com/maddydevgits/iot-activities/tree/main/Project3">Click Here</a></td>
   </tr>
 </table>
