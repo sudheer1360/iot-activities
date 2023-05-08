@@ -48,12 +48,12 @@ fire sensor detects the before the threat become serious
   <tr>
     <td>1</td>
     <td>Anode</td>
-    <td>Cathode</td>
+    <td>D3</td>
   </tr>
   <tr>
     <td>2</td>
-    <td>D3</td>
-    <td>D3</td>
+    <td>Cathode</td>
+    <td>GND</td>
   </tr>
 
   </table>
