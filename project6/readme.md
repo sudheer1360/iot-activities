@@ -3,6 +3,7 @@
 2.NodeMCU<br>
 3.USB Cable<br>
 4.Jumper wires<br>
+5.Buzzer
 
 # Prereqisites
 1.Arduino Software<br>
