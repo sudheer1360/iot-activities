@@ -1,5 +1,5 @@
 # Components
-1.Alcohol Sensor<br>
+1.fireflame sensor Sensor<br>
 2.NodeMCU<br>
 3.USB Cable<br>
 4.Jumper wires<br>
@@ -10,7 +10,7 @@
 
 # Outline
 1.Telegram Event Notifier<br>
-fire sensor detects the before the threat become serious
+fireflame sensor detects the before the threat become serious
 
 # Libraries
 1.Arduinojson library<br>
