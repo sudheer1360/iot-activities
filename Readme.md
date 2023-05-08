@@ -35,6 +35,6 @@
     <td>6</td>
     <td>Using Fireflame sensor</td>
     <td>Detect the fire before the threat becomes serious</td>
-    <td><a href="">Click Here</a></td>
+    <td><a href="https://github.com/maddydevgits/iot-activities/blob/main/project6/main.ino">Click Here</a></td>
   </tr>
 </table>
