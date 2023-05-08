@@ -11,7 +11,7 @@
     <td>1</td>
     <td>Telegram Event Notifier</td>
     <td>When a Gas Sensor detects the dangerous gas, then a msg has to be sent on Telegram</td>
-    <td></td>
+    <td><a href="">Click Here</a></td>
   </tr>
    <tr>
     <td>3</td>
