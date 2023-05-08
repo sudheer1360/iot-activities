@@ -21,8 +21,8 @@
   </tr>
   <tr>
     <td>1</td>
-    <td>Telegram Event Notifier</td>
-    <td>When a Gas Sensor detects the dangerous gas, then a msg has to be sent on Telegram</td>
-    <td><a href="https://github.com/maddydevgits/iot-activities/tree/main/project1">Click Here</a></td>
+    <td>Telegram Controlled Servo motor</td>
+   
+    <td><a href="">Click Here</a></td>
   </tr>
 </table>
