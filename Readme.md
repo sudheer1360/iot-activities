@@ -31,4 +31,10 @@
     <td>Generate Messages on Serial Monitor when Soil Sensor is Wet and dry, Alcohol Sensor is Normal and Drunken</td>
     <td><a href="https://github.com/maddydevgits/iot-activities/blob/main/project4/main.ino">Click Here</a></td>
   </tr>
+  <tr>
+    <td>6</td>
+    <td>Using Fireflame sensor</td>
+    <td>Detect the fire before the threat becomes serious</td>
+    <td><a href="">Click Here</a></td>
+  </tr>
 </table>
