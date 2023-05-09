@@ -1,6 +1,6 @@
 # Components
 1.Ultrasonic Sensor<br>
-2.Buzzer
+2.Buzzer<br>
 3.NodeMCU<br>
 4.USB Cable<br>
 5.Jumper wires<br>
