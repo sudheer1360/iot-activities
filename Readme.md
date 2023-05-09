@@ -42,9 +42,9 @@
     <td><a href="https://github.com/maddydevgits/iot-activities/blob/main/project6/main.ino">Click Here</a></td>
   </tr>
   <tr>
-    <td>6</td>
-    <td>Using Ultrasonic Sensortd>
+    <td>7</td>
+    <td>Using Ultrasonic Sensor</td>
     <td>Make buzzer on when Pit hole is detected (using Ultrasonic Sensor) </td>
-    <td><a href="">Click Here</a></td>
+    <td><a href="https://github.com/maddydevgits/iot-activities/blob/main/project7/main.ino">Click Here</a></td>
   </tr>
 </table>
