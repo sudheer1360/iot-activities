@@ -48,7 +48,7 @@
   
   <table>
   <tr>
-    <th>S>NO</th>
+    <th>S.NO</th>
     <th>Buzzer</th>
     <th>NODEMCU</th>
   </tr>
