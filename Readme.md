@@ -16,7 +16,7 @@
   <td>2</td>
     <td>Telegram Controlled LED</td>
     <td>controlling the led on and off by telegram</td>
-    <td><a href=">Click Here</a></td>
+    <td><a href="https://github.com/maddydevgits/iot-activities/tree/main/Project2">Click Here</a></td>
    <tr>
     <td>3</td>
     <td>Alcohol ThingSpeak Updater</td>
