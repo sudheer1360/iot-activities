@@ -1,7 +1,7 @@
 # Components
 1.Soil moisture sensor<br>
-2.DHT11 Sensor
-3.Fish sensor
+2.DHT11 Sensor<br>
+3.Fish sensor<br>
 4.NodeMCU<br>
 5.USB Cable<br>
 6.Jumper wires<br>
