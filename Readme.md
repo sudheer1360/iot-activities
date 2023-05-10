@@ -47,4 +47,10 @@
     <td>Make buzzer on when Pit hole is detected (using Ultrasonic Sensor) </td>
     <td><a href="https://github.com/maddydevgits/iot-activities/blob/main/project7/main.ino">Click Here</a></td>
   </tr>
+  <tr>
+    <td>7</td>
+    <td>Whether reporting system </td>
+    <td>It shows the rainfall,Humidity and Temparature values </td>
+    <td><a href="">Click Here</a></td>
+  </tr>
 </table>
