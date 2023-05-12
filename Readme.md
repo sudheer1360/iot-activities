@@ -55,8 +55,8 @@
   </tr>
   <tr>
     <td>9</td>
-    <td>Smart Dustbin</td>
-    <td>It Collects dust based on the distance </td>
-    <td><a href="">Click Here</a></td>
+    <td>Motion Detection</td>
+    <td>Motion Detection using IR sensor </td>
+    <td><a href="https://github.com/maddydevgits/iot-activities/blob/main/project9/main.ino">Click Here</a></td>
   </tr>
 </table>
