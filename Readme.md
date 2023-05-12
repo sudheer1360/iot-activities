@@ -59,4 +59,10 @@
     <td>Motion Detection using IR sensor </td>
     <td><a href="https://github.com/maddydevgits/iot-activities/blob/main/project9/main.ino">Click Here</a></td>
   </tr>
+   <tr>
+    <td>10</td>
+    <td>Smart Dustbin</td>
+    <td>Dust Detection Using Ultrasonic sensor</td>
+    <td><a href="">Click Here</a></td>
+  </tr>
 </table>
