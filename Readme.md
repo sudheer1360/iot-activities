@@ -48,8 +48,14 @@
     <td><a href="https://github.com/maddydevgits/iot-activities/blob/main/project7/main.ino">Click Here</a></td>
   </tr>
   <tr>
-    <td>7</td>
+    <td>8</td>
     <td>Whether reporting system </td>
+    <td>It shows the rainfall,Humidity and Temparature values </td>
+    <td><a href="https://github.com/maddydevgits/iot-activities/blob/main/project8/main.ino">Click Here</a></td>
+  </tr>
+  <tr>
+    <td>9</td>
+    <td>Smart Dustbin</td>
     <td>It shows the rainfall,Humidity and Temparature values </td>
     <td><a href="https://github.com/maddydevgits/iot-activities/blob/main/project8/main.ino">Click Here</a></td>
   </tr>
