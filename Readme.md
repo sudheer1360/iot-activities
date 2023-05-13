@@ -63,6 +63,6 @@
     <td>10</td>
     <td>Smart Dustbin</td>
     <td>Dust Detection Using Ultrasonic sensor</td>
-    <td><a href="">Click Here</a></td>
+    <td><a href="https://github.com/maddydevgits/iot-activities/tree/main/project10">Click Here</a></td>
   </tr>
 </table>
