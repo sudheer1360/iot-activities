@@ -68,7 +68,7 @@
   <tr>
     <td>11</td>
     <td>Plant Monitoring System</td>
-    <td>Moisture Detection Using Soil Moisture Sensor</td>
+    <td>Plant moisture Detection Using Soil Moisture Sensor</td>
     <td><a href="https://github.com/maddydevgits/iot-activities/tree/main/Project11">Click Here</a></td>
   </tr>
 </table>
