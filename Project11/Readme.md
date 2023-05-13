@@ -1,22 +1,40 @@
-Components
-1.Soil Moisture Sensor
-2.NodeMCU
-3.USB Cable
-4.Jumper wires
-5.Flying fish
+# Components
+1.Soil Moisture Sensor <br/>
+2.NodeMCU <br/>
+3.USB Cable <br/>
+4.Jumper wires <br/>
+5.Flying fish <br/>
 
-Prereqisites
+# Prereqisites
 1.Arduino Software
 
-
-Outline
+# Outline
 Moisture sensor is updated the plant is needed water or not
 
-Libraries
+# Libraries
 1.ESP8266 configuration in arduino
 
-connections
+# Connections
 Connect the soil moisture sensor with the flying fish
-1	VCC	Vin
-2	GND	GND
-3	A0	A0
+<table>
+  <tr>
+    <th>S.No</th>
+    <th>Soil Moisture Sensor</th>
+    <th>NodeMCU</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Vcc</td>
+    <td>Vin</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Gnd</td>
+    <td>Gnd</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>A0</td>
+    <td>A0</td>
+  </tr>
+</table>
