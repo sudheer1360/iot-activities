@@ -71,5 +71,11 @@
     <td>Plant moisture Detection Using Soil Moisture Sensor</td>
     <td><a href="https://github.com/maddydevgits/iot-activities/tree/main/Project11">Click Here</a></td>
   </tr>
+  <td>12</td>
+    <td>Smart Garden</td>
+    <td>Giving water to the plants based on the moisture values</td>
+    <td><a href="">Click Here</a></td>
+  </tr>
 </table>
+
 
