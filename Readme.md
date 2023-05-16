@@ -76,6 +76,12 @@
     <td>Giving water to the plants based on the moisture values</td>
     <td><a href="">Click Here</a></td>
   </tr>
+   </tr>
+  <td>13</td>
+    <td>Visiter Counter</td>
+    <td>It tracks the no.of visiter</td>
+    <td><a href="https://github.com/maddydevgits/iot-activities/tree/main/Project13">Click Here</a></td>
+  </tr>
 </table>
 
 
